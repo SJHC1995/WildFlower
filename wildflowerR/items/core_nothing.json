@@ -1,0 +1,29 @@
+{
+
+    "format_version": "1.16",
+   
+    "minecraft:item": {
+   
+    "description": {
+   
+    "identifier": "wf:core_nothing",
+   
+    "category": "Items"
+   
+    },
+   
+   
+   
+    "components": {
+   
+    "minecraft:icon": "core_nothing",
+   
+   
+   
+    "minecraft:render_offsets": "apple"
+   
+    }
+   
+    }
+   
+   } 

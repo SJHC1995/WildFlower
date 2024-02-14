@@ -1,0 +1,17 @@
+{
+    "format_version": 1,
+    "header": {
+    "uuid": "1FAB248B-36B6-5BB4-5CF7-6E3FB42B3C0F",
+    "name": "Wild Flower",
+    "version": [1, 0, 6],
+    "description":"§4 Wild Flower §l§o§0 Ver1.06  §l§o§c DATA §f WRITE BY HALFSWORD"
+     },
+    "modules": [
+      {
+        "description": "try",
+        "version": [1, 0, 6],
+        "uuid": "10F86A89-3799-5E8C-501B-CCBE3318677E",
+        "type": "data"
+      }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+      "description": {
+      "identifier": "wf:core_nothing"
+      },
+  
+      
+      "tags": [ "crafting_table" ],
+      "pattern": [
+        "XAX",
+        "ABA",
+        "#A#"
+      ],
+      "key": {
+        "#": {
+          "item": "minecraft:diamond_block"
+        },
+        "X": {
+          "item": "wf:ingot_musicium"
+        },
+        "A":{
+            "item": "wf:flame_shadow_constraint_architecture"
+        },
+        "B":{
+            "item": "wf:witty_constraint_crystal"
+        }
+      },
+      "result": {
+        "item": "wf:core_nothing"
+      }
+    }
+  }

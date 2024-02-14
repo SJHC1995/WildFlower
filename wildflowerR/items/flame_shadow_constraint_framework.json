@@ -1,0 +1,29 @@
+{
+
+    "format_version": "1.16",
+   
+    "minecraft:item": {
+   
+    "description": {
+   
+    "identifier": "wf:flame_shadow_constraint_framework",
+   
+    "category": "Items"
+   
+    },
+   
+   
+   
+    "components": {
+   
+    "minecraft:icon": "flame_shadow_constraint_framework",
+   
+   
+   
+    "minecraft:render_offsets": "apple"
+   
+    }
+   
+    }
+   
+   } 

@@ -1,0 +1,39 @@
+{
+  "format_version": "1.20.10",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "wf:raw_musicium"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "BBB",
+      "EAE",
+      "CCC"
+    ],
+    "key": {
+      "A": {
+        "item": "wf:endmusicium_box"
+      },
+      "B": {
+        "item": "minecraft:raw_gold_block"
+      },
+      "C": {
+        "item": "minecraft:raw_iron_block"
+      },
+      "E": {
+        "item": "minecraft:diamond"
+      }
+    },
+	"unlock": [
+      {
+        "item": "minecraft:diamond"
+      }
+    ],
+    "result": [
+      { "item": "wf:raw_musicium","count": 2 },
+      { "item": "wf:endmusicium_box", "count": 1 }
+    ]
+  }
+}

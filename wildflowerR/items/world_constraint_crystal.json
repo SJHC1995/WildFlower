@@ -1,0 +1,29 @@
+{
+
+    "format_version": "1.16",
+   
+    "minecraft:item": {
+   
+    "description": {
+   
+    "identifier": "wf:world_constraint_crystal",
+   
+    "category": "Items"
+   
+    },
+   
+   
+   
+    "components": {
+   
+    "minecraft:icon": "world_constraint_crystal",
+   
+   
+   
+    "minecraft:render_offsets": "apple"
+   
+    }
+   
+    }
+   
+   } 

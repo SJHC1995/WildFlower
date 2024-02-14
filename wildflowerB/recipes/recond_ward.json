@@ -1,0 +1,33 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+      "description": {
+      "identifier": "minecraft:record_ward"
+      },
+  
+      
+      "tags": [ "crafting_table" ],
+      "pattern": [
+        "AXB",
+        "X#X",
+        "BXA"
+      ],
+      "key": {
+        "#": {
+          "item": "minecraft:diamond"
+        },
+        "X": {
+          "item": "minecraft:iron_ingot"
+        },
+        "A":{
+            "item": "minecraft:redstone"
+        },
+        "B":{
+            "item": "minecraft:wool"
+        }
+      },
+      "result": {
+        "item": "minecraft:record_ward"
+      }
+    }
+  }

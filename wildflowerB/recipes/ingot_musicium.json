@@ -1,0 +1,13 @@
+{
+    "format_version": "1.20.10",
+    "minecraft:recipe_furnace": {
+      "description": {
+      "identifier": "wf:ingot_musicium"
+      },
+      "tags": ["furnace", "blast_furnace"],
+      "input": "wf:raw_musicium",
+      "output": "wf:ingot_musicium"
+    }
+    
+  }
+  

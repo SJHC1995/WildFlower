@@ -1,0 +1,28 @@
+{
+    "format_version": "1.16",
+    "minecraft:recipe_shaped": {
+      "description": {
+      "identifier": "wf:flame_shadow_constraint_architecture"
+      },
+  
+      
+      "tags": [ "crafting_table" ],
+      "pattern": [
+        "ABA",
+        "AAA",
+        "ABA"
+      ],
+      "key": {
+        
+        "A":{
+            "item": "minecraft:blaze_rod"
+        },
+        "B":{
+            "item": "minecraft:ender_pearl"
+        }
+      },
+      "result": {
+        "item": "wf:flame_shadow_constraint_architecture"
+      }
+    }
+  }

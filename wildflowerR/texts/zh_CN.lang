@@ -1,0 +1,43 @@
+﻿###1.02 版本所有内容####
+item.record_11.desc=寂寞的人唱伤心的歌	#
+item.record_13.desc=Feel Right Now	#
+item.record_blocks.desc=一帅到底	#
+item.record_cat.desc=野花香	#
+item.record_chirp.desc=Breathin	#
+item.record_far.desc=Arms Dealer	#
+item.record_mall.desc=DO LT	#
+item.record_stal.desc=What is Love	#
+item.record_strad.desc=Void	#
+item.record_wait.desc=你看到的我	#
+item.record_ward.desc=Communication  #
+#############################################BY_HALFSWORD########################################################
+##已更新11首歌曲######
+
+####暂不更新#####
+item.record_mellohi.desc=暂未更新1	#
+item.record_pigstep.desc=暂未更新2	#
+item.record_otherside.desc=暂未更新3	#
+item.record_relic.desc=暂未更新4	#
+item.record_5.desc=暂未更新5
+
+####大类####
+item.record.name=§l§m§3AA音乐唱片AA	#
+####################ITEMS##################
+item.wf:endrecond_box.name=§8终-唱片盒
+item.wf:endmusicium_box.name=§b天终-唱片盒
+
+###############ORE-INGOT-RAW####################
+item.wf:ingot_musicium.name=§5诙符锭
+item.wf:raw_musicium.name=§5粗制诙符
+##########################misc##################################
+item.wf:constraint_architecture_linking_mechanism.name=§9约束结构链接构件
+item.wf:flame_shadow_constraint_architecture.name=§9焰影约束结构体
+item.wf:flame_shadow_constraint_framework.name=§9焰影约束框架
+item.wf:witty_constraint_crystal.name=§5诙符约束晶体
+item.wf:world_constraint_crystal.name=§l---§6世界约束晶体§f---
+item.wf:core_nothing.name=§5诙符约束核心晶栅-格
+item.wf:core_village.name=-§2村庄约束核心晶栅§f-
+item.wf:core_ender.name=-§e末影约束核心晶栅§f-
+item.wf:core_netherite.name=-§c地狱约束核心晶栅§f-
+item.wf:core_ocean.name= -§1海洋约束核心晶栅§f-
+item.wf:core_world.name=§0_--§l§6世界核心§0--_

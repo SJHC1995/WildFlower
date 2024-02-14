@@ -1,0 +1,29 @@
+{
+
+    "format_version":"1.12",
+    
+    "minecraft:item":{
+    
+    "description":{
+    
+    "identifier":"wf:core_world"
+    
+     },
+    
+       "components":{
+    
+       "minecraft:hand_equipped":false,
+    
+       "minecraft:max_stack_size":1,
+    
+       "minecraft:foil":false,
+       "minecraft:stack_by_data":true,
+       "minecraft:display_lore":{
+        "value":"§6此世的核心,手握可掌世界之力"
+       }
+       
+       }
+    
+     }
+    
+    } 

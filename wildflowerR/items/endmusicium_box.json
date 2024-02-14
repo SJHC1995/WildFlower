@@ -1,0 +1,29 @@
+{
+
+     "format_version": "1.16",
+    
+     "minecraft:item": {
+    
+     "description": {
+    
+     "identifier": "wf:endmusicium_box",
+    
+     "category": "Items"
+    
+     },
+    
+    
+    
+     "components": {
+    
+     "minecraft:icon": "endmusicium_box",
+    
+    
+    
+     "minecraft:render_offsets": "apple"
+    
+     }
+    
+     }
+    
+    } 

@@ -1,0 +1,33 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+      "description": {
+      "identifier": "wf:core_netherite"
+      },
+  
+      
+      "tags": [ "crafting_table" ],
+      "pattern": [
+        "XAX",
+        "ABA",
+        "X#X"
+      ],
+      "key": {
+        "#": {
+          "item": "minecraft:nether_star"
+        },
+        "X": {
+          "item": "minecraft:netherite_block"
+        },
+        "A":{
+            "item": "wf:flame_shadow_constraint_architecture"
+        },
+        "B":{
+            "item": "wf:core_nothing"
+        }
+      },
+      "result": {
+        "item": "wf:core_netherite"
+      }
+    }
+  }

@@ -1,0 +1,29 @@
+{
+    "format_version": "1.16",
+    "minecraft:recipe_shaped": {
+      "description": {
+      "identifier": "wf:constraint_architecture_linking_mechanism"
+      },
+  
+      
+      "tags": [ "crafting_table" ],
+      "pattern": [
+        "ABA",
+        "ABA",
+        "ABA"
+      ],
+      "key": {
+        
+        "A":{
+            "item": "wf:ingot_musicium"
+        },
+        "B":{
+            "item": "wf:flame_shadow_constraint_architecture"
+        }
+      },
+      "result": {
+        "item": "wf:constraint_architecture_linking_mechanism",
+        "count": 2
+      }
+    }
+  }

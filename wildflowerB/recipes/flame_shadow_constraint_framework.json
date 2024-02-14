@@ -1,0 +1,28 @@
+{
+    "format_version": "1.16",
+    "minecraft:recipe_shaped": {
+      "description": {
+      "identifier": "wf:flame_shadow_constraint_framework"
+      },
+  
+      
+      "tags": [ "crafting_table" ],
+      "pattern": [
+        "AAA",
+        "ABA",
+        "AAA"
+      ],
+      "key": {
+        
+        "A":{
+            "item": "wf:constraint_architecture_linking_mechanism"
+        },
+        "B":{
+            "item": "wf:ingot_musicium"
+        }
+      },
+      "result": {
+        "item": "wf:flame_shadow_constraint_framework"
+      }
+    }
+  }

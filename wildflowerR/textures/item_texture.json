@@ -1,0 +1,55 @@
+{
+	"resource_pack_name": "Vanilla",
+	"texture_name": "atlas.items",
+	"texture_data": {
+      "endrecond_box":{
+        "textures":"textures/items/endrecond_box"
+      },
+      "endmusicium_box":{
+        "textures":"textures/items/endmusicium_box"
+      },
+      "raw_musicium":{
+        "textures":"textures/items/raw_musicium"
+      },
+      "ingot_musicium":{
+        "textures":"textures/items/ingot_musicium"
+      },
+      
+      "witty_constraint_crystal":{
+        "textures":"textures/items/witty_constraint_crystal"
+      },"world_constraint_crystal":{
+        "textures":"textures/items/world_constraint_crystal"
+      },
+      "constraint_architecture_linking_mechanism":{
+          "textures":"textures/items/constraint_architecture_linking_mechanism"
+      },
+      "flame_shadow_constraint_architecture":{
+        "textures":"textures/items/flame_shadow_constraint_architecture"
+      },
+      "flame_shadow_constraint_framework":{
+        "textures":"textures/items/flame_shadow_constraint_framework"
+      },
+      "core_nothing":{
+        "textures":"textures/items/core_nothing"
+      },
+      "core_ender":{
+        "textures":"textures/items/core_ender"
+      },
+      "core_village":{
+        "textures":"textures/items/core_village"
+      },
+      "core_netherite":{
+        "textures":"textures/items/core_netherite"
+      },
+      "core_ocean":{
+        "textures":"textures/items/core_ocean"
+      },
+      "core_world":{
+        "textures":"textures/items/core_world"
+      },
+      "sword_world":{
+        "textures":""
+      }
+      
+    }
+}

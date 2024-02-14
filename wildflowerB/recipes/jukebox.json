@@ -1,0 +1,33 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+      "description": {
+      "identifier": "minecraft:jukebox"
+      },
+  
+      
+      "tags": [ "crafting_table" ],
+      "pattern": [
+        "AXB",
+        "X#X",
+        "BXA"
+      ],
+      "key": {
+        "#": {
+          "item": "minecraft:iron_ingot"
+        },
+        "X": {
+          "item": "minecraft:planks"
+        },
+        "A":{
+            "item": "minecraft:copper_ingot"
+        },
+        "B":{
+            "item": "minecraft:redstone"
+        }
+      },
+      "result": {
+        "item": "minecraft:jukebox"
+      }
+    }
+  }

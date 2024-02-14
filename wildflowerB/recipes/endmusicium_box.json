@@ -1,0 +1,33 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+      "description": {
+      "identifier": "wf:endmusicium_box"
+      },
+  
+      
+      "tags": [ "crafting_table" ],
+      "pattern": [
+        "#A#",
+        "XBX",
+        "AXA"
+      ],
+      "key": {
+        "#": {
+          "item": "minecraft:diamond_block"
+        },
+        "X": {
+          "item": "minecraft:obsidian"
+        },
+        "A":{
+            "item": "minecraft:gold_block"
+        },
+        "B":{
+          "item": "wf:endrecond_box"
+        }
+      },
+      "result": {
+        "item": "wf:endmusicium_box"
+      }
+    }
+  }

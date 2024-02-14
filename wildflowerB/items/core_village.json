@@ -1,0 +1,30 @@
+{
+
+    "format_version":"1.12",
+    
+    "minecraft:item":{
+    
+    "description":{
+    
+    "identifier":"wf:core_village"
+    
+     },
+    
+       "components":{
+    
+       "minecraft:hand_equipped":false,
+    
+       "minecraft:max_stack_size":1,
+    
+       "minecraft:foil":false,
+    
+       "minecraft:stack_by_data":true,
+       "minecraft:display_lore":{
+        "value":"约束人文气息的核心"
+       }
+    
+       }
+    
+     }
+    
+    } 

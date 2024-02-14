@@ -1,0 +1,42 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+      "description": {
+      "identifier": "wf:core_world"
+      },
+  
+      
+      "tags": [ "crafting_table" ],
+      "pattern": [
+        "DAE",
+        "#XB",
+        "ECD"
+      ],
+      "key": {
+        "#": {
+          "item": "wf:core_ocean"
+        },
+        "X": {
+          "item": "wf:flame_shadow_constraint_framework"
+        },
+        "A":{
+            "item": "wf:core_ender"
+        },
+        "B":{
+            "item": "wf:core_netherite"
+        },
+        "C":{
+          "item": "wf:core_village"
+        },
+        "D":{
+          "item": "wf:constraint_architecture_linking_mechanism"
+        },
+        "E":{
+          "item": "wf:witty_constraint_crystal"
+        }
+      },
+      "result": {
+        "item": "wf:core_world"
+      }
+    }
+  }

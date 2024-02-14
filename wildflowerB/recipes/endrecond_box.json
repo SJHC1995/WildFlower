@@ -1,0 +1,39 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+      "description": {
+      "identifier": "wf:endrecond_box"
+      },
+  
+      
+      "tags": [ "crafting_table" ],
+      "pattern": [
+        "AXA",
+        "D#D",
+        "CBC"
+      ],
+      "key": {
+        "#": {
+          "item": "minecraft:diamond_block"
+        },
+        "X": {
+          "item": "minecraft:iron_block"
+        },
+        "A":{
+            "item": "minecraft:blaze_rod"
+        },
+        "B":{
+            "item": "minecraft:chest"
+        },
+        "C":{
+            "item": "minecraft:ender_pearl"
+        },
+        "D":{
+            "item": "minecraft:jukebox"
+        }
+      },
+      "result": {
+        "item": "wf:endrecond_box"
+      }
+    }
+  }
